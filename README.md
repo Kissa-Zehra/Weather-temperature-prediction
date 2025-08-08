@@ -1,8 +1,8 @@
 # 🌤 Weather Temperature Prediction (Machine Learning Project)
 
-This project predicts **future weather temperatures** using **machine learning regression techniques**.  
+This project predicts **future weather temperatures** using **machine learning regression techniques**
 By analyzing historical weather data such as temperature, humidity, wind speed, and pressure,  
-the model can forecast upcoming temperature trends with high accuracy.
+the model can forecast upcoming temperature trends with high accuracy
 
 ---
 
